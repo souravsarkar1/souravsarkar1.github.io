@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e09090ad.css",
+    "main.js": "/static/js/main.e94cfd8d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
+    "static/media/chakra.png": "/static/media/chakra.e4cb472ccaabf22affba.png",
+    "static/media/mongoose.png": "/static/media/mongoose.91be34a5226500b1eeed.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node js.png": "/static/media/node js.952a9ea986dcfa5229ad.png",
+    "static/media/express.png": "/static/media/express.cca64e0f360897258ecb.png",
+    "static/media/typescripte.png": "/static/media/typescripte.9b1779a2fd3504559e59.png",
+    "static/media/jest.png": "/static/media/jest.809768de8350fa5f6a21.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/thunderclient.png": "/static/media/thunderclient.e7f89c51cacb4fb9c726.png",
+    "static/media/js.png": "/static/media/js.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.e09090ad.css.map": "/static/css/main.e09090ad.css.map",
+    "main.e94cfd8d.js.map": "/static/js/main.e94cfd8d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e09090ad.css",
+    "static/js/main.e94cfd8d.js"
+  ]
+}
