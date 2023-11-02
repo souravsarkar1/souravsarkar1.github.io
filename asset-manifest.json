@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.13efbacd.css",
-    "main.js": "/static/js/main.946db18d.js",
+    "main.js": "/static/js/main.421a0ea3.js",
     "static/js/787.02b30a03.chunk.js": "/static/js/787.02b30a03.chunk.js",
     "static/media/placeholder.png": "/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
     "static/media/chakra.png": "/static/media/chakra.e4cb472ccaabf22affba.png",
+    "static/media/react native.png": "/static/media/react native.fdd100e7d3c2f0d971dc.png",
     "static/media/cypress.png": "/static/media/cypress.7651d9b69799b6d71fb7.png",
     "static/media/BestermindRegular.ttf": "/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "static/media/express.png": "/static/media/express.cca64e0f360897258ecb.png",
@@ -93,11 +94,11 @@
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.13efbacd.css.map": "/static/css/main.13efbacd.css.map",
-    "main.946db18d.js.map": "/static/js/main.946db18d.js.map",
+    "main.421a0ea3.js.map": "/static/js/main.421a0ea3.js.map",
     "787.02b30a03.chunk.js.map": "/static/js/787.02b30a03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13efbacd.css",
-    "static/js/main.946db18d.js"
+    "static/js/main.421a0ea3.js"
   ]
 }
